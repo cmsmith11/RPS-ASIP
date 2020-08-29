@@ -1,0 +1,2 @@
+This directory will contain all play history. If this data directory is not
+present, then there will be an error creating any file.

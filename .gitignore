@@ -1,0 +1,7 @@
+# executables
+*.o
+rps
+rand_gen
+
+# player history files
+*_hist.txt
